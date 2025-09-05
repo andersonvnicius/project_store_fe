@@ -1,0 +1,77 @@
+/* Estilo Geral */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: #f8f4f0; /* Fundo claro com tom de beige */
+  color: #3f3f3f; /* Cor de texto neutra (marrom escuro/cinza) */
+}
+
+/* Cabeçalho */
+header {
+  background-color: #354f52; /* Azul jeans escuro */
+  color: #f1f1f1; /* Texto branco suave */
+  padding: 20px;
+  text-align: center;
+  font-size: 1.8em;
+  font-weight: bold;
+  border-bottom: 3px solid #27393b; /* Borda inferior em tom caramelo */
+}
+
+/* Produtos */
+.product-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+  padding: 20px;
+}
+
+.product-item {
+  /* background-color: none; Fundo branco para cada produto */
+  border: none;
+  /* border-radius: 10px; Borda arredondada */
+  /* box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); Sombra leve */
+  width: 200px;
+  text-align: center;
+  padding: 10px 0;
+  margin: 10px;
+  /* transition: transform 0.3s, box-shadow 0.3s; */
+}
+
+.product-item:hover {
+  transform: scale(1.03); /* Leve aumento ao passar o mouse */
+  box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.2); /* Realce da sombra */
+}
+
+.product-item img {
+  border-radius: 8px; /* Cantos levemente arredondados */
+  width: 100%;
+  height: calc(200px * 1.8);
+  object-fit: cover;
+}
+
+h2 {
+  color: #3f3f3f; /* Título em marrom escuro */
+  font-size: 1.2em;
+  margin: 10px 0;
+}
+
+p {
+  color: #5e503f; /* Texto descritivo em tom mais claro */
+  font-size: 0.9em;
+}
+
+.price {
+  font-size: 1.1em;
+  font-weight: bold;
+  color: #a67c52; /* Destaque no preço com tom caramelo */
+  margin-top: 5px;
+}
+
+/* Rodapé */
+footer {
+  text-align: center;
+  padding: 10px 0;
+}

@@ -1,0 +1,30 @@
+[
+  {
+    "name": "T. Shirt",
+    "description": "Camiseta básica de algodão, ideal para o uso diário com conforto e estilo. <br> Disponível em várias cores.",
+    "image": "assets/tshirt.png",
+    "price": "R$ 99,90",
+    "link": "https://produto.mercadolivre.com.br/MLB-5124330942-kit-3-blusas-t-shirt-baby-look-femininas-viscolycra-_JM?searchVariation=188370846445#polycard_client=search-nordic&searchVariation=188370846445&search_layout=grid&position=8&type=item&tracking_id=32e5de04-4b00-46f0-be8e-bf8461f0fb0f"
+  },
+  {
+    "name": "Dress",
+    "description": "Vestido elegante com estampa floral e corte moderno. <br> Perfeito para eventos casuais ou jantares especiais.",
+    "image": "assets/dress.png",
+    "price": "R$ 399,90",
+    "link": "https://produto.mercadolivre.com.br/MLB-4121805937-fashion-sundress-elegant-floral-print-dress-with-big-swing-_JM?searchVariation=188938460327#is_advertising=true&searchVariation=188938460327&backend_model=search-backend&position=1&search_layout=grid&type=pad&tracking_id=98aeda99-a50b-42a7-b969-87594fa1dafa&ad_domain=VQCATCORE_LST&ad_position=1&ad_click_id=NzQxMWM0MDctYmNhZC00YTgyLWJjZDAtOGEwYmQwMDNmYjlk"
+  },
+  {
+    "name": "Jacket",
+    "description": "Jaqueta confortável e estilosa, feita com material resistente a ventos e ideal para dias mais frios.",
+    "image": "assets/jacket.png",
+    "price": "R$ 599,90",
+    "link": "https://produto.mercadolivre.com.br/MLB-5394837716-a-jaqueta-ben-10-alien-heroes-stand-up-2024-_JM?searchVariation=188019510371#polycard_client=search-nordic&searchVariation=188019510371&search_layout=grid&position=9&type=item&tracking_id=7a35b8a3-2a38-424b-a9df-6cd42d3c239e"
+  },
+  {
+    "name": "Trousers",
+    "description": "Calça de cintura alta com corte largo, perfeita para combinar conforto e estilo no dia a dia.",
+    "image": "assets/trousers.png",
+    "price": "R$ 149,90",
+    "link": "https://produto.mercadolivre.com.br/MLB-4152048683-camiseta-alo-calcas-largas-de-cintura-alta-conjunto-de-iog-_JM?searchVariation=184593023414#polycard_client=search-nordic&searchVariation=184593023414&search_layout=grid&position=21&type=item&tracking_id=36c39a2d-fd84-474c-87cc-67737eef5992"
+  }
+]
